@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2xKlemens")(type "KiCad")(uri "${KIPRJMOD}/2xKlemens.kicad_sym")(options "")(descr ""))
+)
